@@ -1,0 +1,20 @@
+git init ---> intializing the repo
+
+
+git add filename /.
+
+git commit -m "message"
+
+git push 
+
+// first time repo setup garda
+https://github.com/Basantjung/my-test-repo.git
+
+
+get remote -v
+
+git log --online
+ 
+ git checkout commit_hash/branch_name
+
+ git clone (add git hub)
